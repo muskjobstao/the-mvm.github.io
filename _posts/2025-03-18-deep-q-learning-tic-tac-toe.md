@@ -1,4 +1,14 @@
-
+---
+layout: post
+read_time: true
+show_date: true
+title: "Starting the adventure"
+date: 2025-03-24
+img: posts/20210324/starting_adventure.jpg
+tags: [general blogging, thoughts, life]
+author: Armando Maynez
+description: "Midlife career change: a disaster or an opportunity?"
+---
 ## **第1-3天：人工智能基础**
 
 ### **第1天：人工智能概述**
